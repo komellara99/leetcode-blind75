@@ -1,0 +1,14 @@
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.AssemblyInfoInputs.cache
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.AssemblyInfo.cs
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.csproj.CoreCompileInputs.cache
+/Users/larakomel/RiderProjects/leetcode/leetcode/bin/Debug/net9.0/leetcode
+/Users/larakomel/RiderProjects/leetcode/leetcode/bin/Debug/net9.0/leetcode.deps.json
+/Users/larakomel/RiderProjects/leetcode/leetcode/bin/Debug/net9.0/leetcode.runtimeconfig.json
+/Users/larakomel/RiderProjects/leetcode/leetcode/bin/Debug/net9.0/leetcode.dll
+/Users/larakomel/RiderProjects/leetcode/leetcode/bin/Debug/net9.0/leetcode.pdb
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.dll
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/refint/leetcode.dll
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.pdb
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/leetcode.genruntimeconfig.cache
+/Users/larakomel/RiderProjects/leetcode/leetcode/obj/Debug/net9.0/ref/leetcode.dll
