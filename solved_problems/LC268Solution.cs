@@ -1,5 +1,17 @@
 public class MissingNumberSolution {
+    
     public int MissingNumber(int[] nums) {
+        int sum = 0;
+        var zeroFound = false;
+
+        for (int i = 0; i < nums.Length; i++)
+        {
+            if (nums[i] == 0) zeroFound = true;
+            sum = sum + (i+1) - nums[i];
+        }
+        return zeroFound ? sum : 0;
+    }
+    public int MissingNumber_old(int[] nums) {
         int factorial = 1, product = 1;
         var zeroFound = false;
 
